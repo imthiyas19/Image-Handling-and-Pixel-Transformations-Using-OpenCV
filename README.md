@@ -31,7 +31,7 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
 - **Name:** MOHAMMED IMTHIYAS M
-- **Register Number:** 212222230083
+- **Register Number:** 212223235002
 
   ### Ex. No. 01
 
